@@ -8,9 +8,10 @@
 
 ![](https://github.com/luoyexk/JoystickRocker/blob/master/image/joystick-demo2.gif)
 
-### 简单使用：
+#### 简单使用：
 
 
+```
 <com.zwl9517hotmail.joysticklibrary.CircleViewByImage
         android:id="@+id/joystick_view"
         android:layout_width="wrap_content"
@@ -18,11 +19,13 @@
         android:layout_gravity="bottom|right"
         app:background="@drawable/playview_platform_transverse_handle_normal"
         app:foreground="@drawable/control_foreground" />
+```
 
 
 
-### 设置回调：
+#### 设置回调：
 
+```
 circleViewByImage.setCallback(callback);
 
 
@@ -65,3 +68,4 @@ private CircleViewByImage.ActionCallback callback = new CircleViewByImage.Action
 
         }
     };
+```
