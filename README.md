@@ -8,7 +8,9 @@
 
 ![](https://github.com/luoyexk/JoystickRocker/blob/master/image/joystick-demo2.gif)
 
-简单使用：
+# 简单使用：
+
+
 <com.zwl9517hotmail.joysticklibrary.CircleViewByImage
         android:id="@+id/joystick_view"
         android:layout_width="wrap_content"
@@ -18,6 +20,8 @@
         app:foreground="@drawable/control_foreground" />
 
 
+
+# 设置回调：
 
 circleViewByImage.setCallback(callback);
 
