@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JoystickRocker.iml" filepath="$PROJECT_DIR$/.idea/modules/JoystickRocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/joysticklibrary/JoystickRocker.joysticklibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/joysticklibrary/JoystickRocker.joysticklibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample/JoystickRocker.sample.iml" filepath="$PROJECT_DIR$/.idea/modules/sample/JoystickRocker.sample.iml" />
+    </modules>
+  </component>
+</project>
